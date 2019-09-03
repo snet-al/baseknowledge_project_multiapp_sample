@@ -1,8 +1,11 @@
+# here we define the editor files
 .idea
 .project
 .vscode
 .DS_Store
 
-# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+# define folders of apps which are excluded by this git track because each of them is a separate repo
+/app_vue
+/app_laravel
+/app_sci
+/app_react
