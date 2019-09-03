@@ -50,3 +50,6 @@ If these is not possible must be at least printed some instructions for develope
 This is the script that start the services. This script should have at least two options `dev` and `live`.
 It is very specific to the project the strategy of deployment so we are not defining it here.
 
+
+I am explaning in this project also some of the paradigms of software architecure by starting the sample project
+Please refer to `README-sample.md`
